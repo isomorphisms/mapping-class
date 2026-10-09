@@ -29,6 +29,8 @@ These notes deliberately link to publisher/author/catalog resources rather than 
 
 ## From mapping classes to 3-manifold geometries
 
+**Unbuilt feature:** [mapping tori and their geometries #1](https://github.com/isomorphisms/mapping-class/issues/1), cross-linked to the [eight-geometry viewer](https://github.com/isomorphismes/knot-complement/issues/13).
+
 **Peter Scott**, “The Geometries of 3-Manifolds,” *Bulletin of the London Mathematical Society* **15** (1983), no. 5, 401–487. [DOI](https://doi.org/10.1112/blms/15.5.401). A survey **paper**, cross-listed here for the connection to Farb–Margalit.
 
 For a surface homeomorphism `f : S → S`, the mapping torus `S × [0,1] / ((x,1) ~ (f(x),0))` is a 3-manifold. The Nielsen–Thurston classification provides a route into three-dimensional geometry:
