@@ -26,3 +26,15 @@ Bibliographic references and reading notes for `mapping-class`. These are citati
 Farb–Margalit studies transformations of surfaces modulo isotopy; Meier develops geometric ways to see abstract groups through graphs, trees and group actions. Cayley graphs and actions are useful common language, but **a train track on a surface is not the same object as a tree on which a group acts**.
 
 These notes deliberately link to publisher/author/catalog resources rather than committing book PDFs whose distribution rights have not been verified.
+
+## From mapping classes to 3-manifold geometries
+
+**Peter Scott**, “The Geometries of 3-Manifolds,” *Bulletin of the London Mathematical Society* **15** (1983), no. 5, 401–487. [DOI](https://doi.org/10.1112/blms/15.5.401). A survey **paper**, cross-listed here for the connection to Farb–Margalit.
+
+For a surface homeomorphism `f : S → S`, the mapping torus `S × [0,1] / ((x,1) ~ (f(x),0))` is a 3-manifold. The Nielsen–Thurston classification provides a route into three-dimensional geometry:
+
+- For a closed surface of genus at least 2, a **pseudo-Anosov** mapping class has a hyperbolic mapping torus.
+- A hyperbolic automorphism of the **2-torus** produces a **Sol** mapping torus; do not identify the torus Anosov case with the genus-2-or-higher pseudo-Anosov case.
+- **Periodic** and **reducible** cases lead to Seifert-fibered examples or decompositions with other geometric pieces, subject to the surface and gluing hypotheses.
+
+Scott's §§3–6 are the 3-manifold complement to the 2-dimensional classification in Farb–Margalit. These correspondences do **not** say that every mapping torus has a single Thurston geometry.
