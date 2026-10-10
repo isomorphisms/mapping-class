@@ -21,6 +21,9 @@ Bibliographic references and reading notes for `mapping-class`. These are citati
 - **Contents relevant here:** Cayley graphs, graph symmetries, free groups, group actions on trees, free products, Baumslag–Solitar groups, words and normal forms, lamplighter and Thompson groups, and large-scale geometry.
 - **Reading trail:** Chapters 1 and 3 for Cayley graphs and groups acting on trees; Chapters 4–5 for presentations and word problems; Chapters 9–11 for geometric viewpoints.
 
+## Athanase Papadopoulos — Teichmüller/history trail
+
+See **[Athanase Papadopoulos: math.HO and Teichmüller-history bridges](athanase-papadopoulos.md)** for historical papers on moduli and Teichmüller spaces, quasiconformal mappings, Thurston, hyperbolic geometry, and nearby technical companions.
 ## Relation between the two
 
 Farb–Margalit studies transformations of surfaces modulo isotopy; Meier develops geometric ways to see abstract groups through graphs, trees and group actions. Cayley graphs and actions are useful common language, but **a train track on a surface is not the same object as a tree on which a group acts**.
